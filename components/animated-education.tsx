@@ -64,7 +64,7 @@ export function AnimatedEducation({ educationData }: AnimatedEducationProps) {
       color: "#06B6D4",
       details: [
         { icon: Calendar, label: "Completed", value: educationData.diploma.year },
-        { icon: Clock, label: "Duration", value: "6 months" },
+        { icon: Clock, label: "Duration", value: "2 years" },
       ],
       courses: [
         "Full Stack Development",
