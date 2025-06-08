@@ -31,9 +31,9 @@ const portfolioData = {
       "Full Stack Developer with 1.5+ years of experience building fast, responsive web applications using React, Node.js, and JavaScript. Proficient in developing scalable front-end and back-end solutions, integrating APIs, and writing clean, maintainable code in collaborative, agile environments.",
     email: "sachdevajatin45@gmail.com",
     phone: "+1 (437) 603-3483",
-    location: "San Francisco, CA",
-    github: "https://github.com/alexjohnson",
-    linkedin: "https://linkedin.com/in/alexjohnson",
+    location: "Toronto. Canada",
+    github: "https://github.com/jatin655",
+    linkedin: "https://www.linkedin.com/in/jatin-sachdeva-59177136a/",
   },
   skills: [
     { name: "React", level: 95 },

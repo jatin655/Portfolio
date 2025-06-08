@@ -251,8 +251,7 @@ export function FluidContact({ personalData }: FluidContactProps) {
                   <span className="text-green-400 font-medium">Available for new projects</span>
                 </div>
                 <p className="text-sm text-slate-400 leading-relaxed">
-                  I'm currently open to discussing new opportunities and collaborations. Feel free to reach out to
-                  discuss your project ideas!
+                  I’m currently open to full-time opportunities as a Full Stack Developer. Feel free to connect if you’re hiring or have a role that matches my skills!!
                 </p>
               </div>
             </motion.div>
@@ -266,8 +265,7 @@ export function FluidContact({ personalData }: FluidContactProps) {
             transition={{ duration: 0.4, ease: "easeOut", delay: 0.15 }}
           >
             <blockquote className="text-lg text-slate-400 italic max-w-2xl mx-auto">
-              "Ready to bring your next project to life? Let's discuss how we can work together to create something
-              amazing."
+              "Ready to turn ideas into impactful solutions. Let’s connect and explore how we can build something exceptional—together."
             </blockquote>
             <div className="mt-4 text-slate-500">— {personalData.name}</div>
           </motion.div>
