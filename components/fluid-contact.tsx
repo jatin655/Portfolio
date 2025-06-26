@@ -71,14 +71,14 @@ export function FluidContact({ personalData }: FluidContactProps) {
             transition={{ duration: 0.5, ease: "easeOut" }}
           >
             <h2
-              className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4"
-              style={{
-                background: "linear-gradient(45deg, #1a1a2e, #16213e, #0f3460, #533483)",
+                className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4"
+                style={{
+                background: "linear-gradient(45deg, #fff, #b7e0ff, #7f7fff, #ffb7e0)",
                 backgroundClip: "text",
                 WebkitBackgroundClip: "text",
                 WebkitTextFillColor: "transparent",
-                textShadow: "0 0 40px rgba(26, 26, 46, 0.8)",
-              }}
+                textShadow: "0 0 60px #fff, 0 0 40px #b7e0ff, 0 0 20px #fff",
+             }}
             >
               LET'S CONNECT
             </h2>
